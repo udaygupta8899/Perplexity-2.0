@@ -75,7 +75,7 @@ messageForm.addEventListener('submit', async (e) => {
             renderMessages();
             
             // Create URL with checkpoint ID if it exists
-            let url = `http://localhost:8000/chat_stream/${encodeURIComponent(currentMessage)}`;
+            let url = `https://perplexity-2.onrender.com/chat_stream/${encodeURIComponent(currentMessage)}`;
             
             if (checkpointId) {
                 url += `?checkpoint_id=${encodeURIComponent(checkpointId)}`;
