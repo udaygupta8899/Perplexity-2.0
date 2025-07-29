@@ -6,8 +6,7 @@ A Perplexity AI–inspired conversational search assistant built with FastAPI (b
 
 ## 🌐 Live Demo
 
-- **Frontend (Netlify):** [https://adorable-pony-bb7521.netlify.app/]  
-- **Backend API (Render):** [YOUR_RENDER_URL]  
+- **Frontend (Netlify):** [https://adorable-pony-bb7521.netlify.app/]   
 
 ---
 
